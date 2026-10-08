@@ -1,3 +1,3 @@
 # Repository description
 
-Java coefficient-array exercise exploring linear-programming constraints and slack-variable conversion.
+Java linear-programming standard-form converter with explicit constraint directions, slack/surplus variables, and regression checks.
